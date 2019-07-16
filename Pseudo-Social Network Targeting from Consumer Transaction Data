@@ -1,0 +1,27 @@
+Pseudo-Social Network Targeting from Consumer Transaction Data
+NYU Working Paper No. CEDER-11-05
+
+31 Pages Posted: 28 Sep 2011
+David Martens
+University of Antwerp
+
+Foster Provost
+New York University
+
+Date Written: September 2011
+
+Abstract
+This design science paper presents a method for targeting consumers based on a 'pseudo-social network' (PSN): 
+consumers are linked if they transfer money to the same entities. A marketer can target those individuals that 
+are strongly connected to key individuals. We present the PSN design and a large-scale empirical study using data 
+from a major bank. For two different product offerings, consumers that are close to existing customers in the PSN 
+have significantly higher take rates thanthe 'most likely' candidates identified by state-of-the-artsocio-demographic (SD) 
+predictive modeling. Interestingly, the PSN targeting only does better for the closest neighbors. However, the different 
+models capture different information: combining the two does significantly better than either alone. The results
+demonstrate that social targeting can be applied broadly, to settings where the network among consumers is unlikely 
+to be a true social network, but nonetheless captures inherent similarity.
+
+Suggested Citation:
+Martens, David and Provost, Foster, Pseudo-Social Network Targeting from Consumer Transaction Data (September 2011). 
+Faculty of Applied Economics, University of Antwerp, Belgium; Departmentof Information, Operations a, Vol. , pp. -, 2011. 
+Available at SSRN: https://ssrn.com/abstract=1934670.
